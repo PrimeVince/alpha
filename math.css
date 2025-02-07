@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#btn{
+    alig: center;
+    font-size: 3em;
+    padding: 5px 25px;
+}
+
+.lbl{
+    font-size: 3em;
+}

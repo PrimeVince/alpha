@@ -1,0 +1,25 @@
+body{
+    text-align:justify;
+    font-size: 1.5em;
+    margin: 30px;
+
+}
+label{
+    text-align: justify;
+    padding-bottom: 20px;
+    font-family: fantasy;
+}
+
+#btn{
+    font-size: 1.3em;
+    color: black;
+    background-color: greenyellow;
+    border-radius: 10%;
+}
+#btn:hover{
+    background-color: blue;
+    transition: .3s, ;
+}
+p{
+    font-size: 40px;
+}
